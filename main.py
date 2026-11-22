@@ -1,6 +1,6 @@
 """Entry for the-plan-make-fun-will-carry-20261122-2138.
 
-Writes a single 279-code-point plan to <output dir>/entry.txt.
+Writes a single 276-code-point plan to <output dir>/entry.txt.
 Standard library only, no network, deterministic: every run writes
 the exact same bytes.
 """
@@ -8,11 +8,11 @@ the exact same bytes.
 import os
 
 PLAN = (
-    "Day 1: open a Fiverr gig selling $25 AI product photos for Etsy "
-    "sellers, promoted in Etsy forums and r/Etsy. Deliver 5 photos per "
-    "order in an hour with free AI tools. Reinvest the first $100 earned "
-    "into promoted gigs. Likely 2-4 orders a day by day 10: about "
-    "$500-$900 by day 30."
+    "Day 1: open a Fiverr gig: $25 AI product photos for Etsy "
+    "sellers, posting 3 before/after samples in Etsy forums, r/Etsy. "
+    "Deliver 5 photos per order in an hour with free AI tools. "
+    "Reinvest first $100 in promoted gigs. Expect 1-2 orders/day by "
+    "day 10: about $350-$600 by day 30."
 )
 
 
